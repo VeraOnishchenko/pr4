@@ -1,0 +1,7 @@
+C:\Users\Пользователь\Documents\ОАП\Онищенко\PR_6\PR_6\bin\Debug\PR_6.exe.config
+C:\Users\Пользователь\Documents\ОАП\Онищенко\PR_6\PR_6\bin\Debug\PR_6.exe
+C:\Users\Пользователь\Documents\ОАП\Онищенко\PR_6\PR_6\bin\Debug\PR_6.pdb
+C:\Users\Пользователь\Documents\ОАП\Онищенко\PR_6\PR_6\obj\Debug\PR_6.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\ОАП\Онищенко\PR_6\PR_6\obj\Debug\PR_6.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\ОАП\Онищенко\PR_6\PR_6\obj\Debug\PR_6.exe
+C:\Users\Пользователь\Documents\ОАП\Онищенко\PR_6\PR_6\obj\Debug\PR_6.pdb
